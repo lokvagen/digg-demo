@@ -1,0 +1,13 @@
+insert into users (id, name, email, phone, address) values (1, 'Shirleen Milillo', 'smilillo0@google.co.jp', '244-911-7862', '0715 Hayes Avenue');
+insert into users (id, name, email, phone, address) values (2, 'Barron Moralee', 'bmoralee1@plala.or.jp', '511-819-6017', '7757 Barnett Junction');
+insert into users (id, name, email, phone, address) values (3, 'Deidre Dibden', 'ddibden2@wikia.com', '327-165-4086', '0623 Becker Junction');
+insert into users (id, name, email, phone, address) values (4, 'Annmaria Scroggins', 'ascroggins3@unc.edu', '524-216-7470', '84633 Canary Street');
+insert into users (id, name, email, phone, address) values (5, 'Jens Sauvage', 'jsauvage4@is.gd', '143-929-6422', '11 Bunker Hill Hill');
+insert into users (id, name, email, phone, address) values (6, 'Jania Niccolls', 'jniccolls5@mail.ru', '833-867-8721', '78658 Lighthouse Bay Park');
+insert into users (id, name, email, phone, address) values (7, 'Shelli Dewar', 'sdewar6@ox.ac.uk', '883-423-7243', '650 Goodland Avenue');
+insert into users (id, name, email, phone, address) values (8, 'Aubrette Mathon', 'amathon7@jimdo.com', '130-666-9593', '548 Blackbird Terrace');
+insert into users (id, name, email, phone, address) values (9, 'Orazio Gussin', 'ogussin8@angelfire.com', '951-854-8275', '6 Emmet Drive');
+insert into users (id, name, email, phone, address) values (10, 'Jennie Emma', 'jemma9@state.gov', '405-303-4832', '37407 Forest Run Pass');
+insert into users (id, name, email, phone, address) values (11, 'Monroe Stuchburie', 'mstuchburiea@senate.gov', '528-372-0602', '0 Kings Lane');
+insert into users (id, name, email, phone, address) values (12, 'William Synan', 'wsynanb@vimeo.com', '450-504-7334', '58890 Mandrake Plaza');
+ALTER SEQUENCE users_seq RESTART WITH 13;
